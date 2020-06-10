@@ -1,2 +1,2 @@
 # basic-tic-tac-toe
-I have used Python Tkinter to create this Game, where player 1 is X who begins the game while player 2 is O
+Tic Tac Toe using Python Tkinter, where player 1 is X who begins the game while player 2 is O
